@@ -1,0 +1,20 @@
+
+@font-face {
+font-family: 'fontce805926e3dfa4eeb8395a4e549532b2';
+    
+    src:    url('https://nomail.com.ua/files/eot/ce805926e3dfa4eeb8395a4e549532b2.eot?#iefix') format('embedded-opentype'),
+            url('https://nomail.com.ua/files/woff/ce805926e3dfa4eeb8395a4e549532b2.woff') format('woff'),
+            url('https://nomail.com.ua/files/woff2/ce805926e3dfa4eeb8395a4e549532b2.woff2') format('woff2');
+}
+
+@font-face { font-family: 'ZurichBT-Bold';  src: local('ZurichBT-Bold'), url('https://nomail.com.ua/files/woff/ce805926e3dfa4eeb8395a4e549532b2.woff') format('woff'); }
+
+
+
+
+/*````````````````````````````````` noMail.com.ua - Каталог шрифтов ```````````````````````````````````````*/
+
+
+#zurichboldbt { font-family:'ZurichBT-Bold'; }
+.fontce805926e3dfa4eeb8395a4e549532b2 { font-family: 'fontce805926e3dfa4eeb8395a4e549532b2'; }
+
